@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Mayur%20Patil&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20Machine%20Learning%20Engineering%20%E2%80%A2%20MLOps&descSize=18&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Mayur%20Patil&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20ML%20Engineering%20%E2%80%A2%20Full%20Stack%20Development&descSize=18&descAlignY=55" width="100%"/>
 
 <a href="https://github.com/mayur212626">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+ML+Systems+That+Survive+Production;PySpark+%7C+PyTorch+%7C+AWS+%7C+NLP+%7C+Deep+Learning;From+Messy+Data+to+Deployed+Models;Seeking+Summer+2026+Data+Science+Internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+ML+Systems+That+Survive+Production;Bayesian+Models+%7C+Monte+Carlo+%7C+Deep+Learning+%7C+NLP;3D+Web+Experiences+with+React+Three+Fiber+%2B+GLSL;Seeking+Summer+2026+Data+Science+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/mayur212626?tab=repositories">
+<a href="https://las-placitas-web.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/mayurpatil26">
@@ -47,16 +47,16 @@
 Models that hold up in the real world — not just on paper.
 ```
 
-I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George Washington University**, originally from Pune, India, now based in Falls Church, VA. I got into this field for the moment when a messy, confusing dataset starts to make sense — and I stayed for the harder problem: making models survive contact with production.
+I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George Washington University**, originally from Pune, India, now based in Falls Church, VA. I got into this field for the moment when a messy dataset starts to make sense — and I stayed for the harder problem: making models survive contact with production.
 
-- 🔬 I build **end-to-end ML systems** — not notebooks. Deployed APIs, CI/CD, bias audits, drift detection, and SHAP explainability ship with the model
-- 🧮 Strong foundations in **statistical learning, deep learning, NLP, and big data engineering** with PySpark
-- ⚙️ Production mindset: **FastAPI serving, Dockerized inference, MLflow tracking, AWS SageMaker pipelines**
-- 📊 Published researcher — 2 papers in international journals on data security and gesture recognition
-- 🩺 Domain range: **clinical ML, log anomaly detection, financial NLP, maritime AIS analytics**
-- 🌱 Currently going deeper on **LLMs, model governance, and scalable MLOps**
+- 🔬 I build **end-to-end ML systems** — deployed APIs, live dashboards, CI/CD, bias audits, drift detection, and SHAP explainability ship with the model, not after it
+- 📊 Statistical depth: **Bayesian hierarchical modeling (PyMC), Monte Carlo simulation, Dixon-Coles**, and rigorous out-of-sample backtesting with pre-registered forecasts
+- 🤖 **Trustworthy AI**: pre-registered LLM evaluation experiments, RAG citation faithfulness, LLM-as-judge pipelines
+- 🎨 Full stack range: **Next.js + React Three Fiber + custom GLSL shaders** — I ship interactive 3D web products, not just models
+- ⚙️ Production tooling: **FastAPI, Docker, MLflow, PySpark, AWS SageMaker**, Streamlit
+- 📄 Published researcher — 2 papers in international journals on data security and gesture recognition
 
-> **Open To:** Summer 2026 Data Science internships (open to relocation) • ML research collaboration • Open source contribution
+> **Open To:** Summer 2026 Data Science internships (open to relocation) • ML research collaboration • Full stack product work • Open source
 
 ---
 
@@ -66,24 +66,34 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,r,java,cpp&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,r,java,cpp&theme=dark" alt="Languages"/>
 
-### Machine Learning & Deep Learning
+### Machine Learning & Statistics
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ML & DL"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,anaconda&theme=dark" alt="ML & Statistics"/>
 
+<img src="https://img.shields.io/badge/PyMC-8B5CF6?style=flat-square&logo=python&logoColor=white" alt="PyMC"/>
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="PySpark"/>
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow"/>
-<img src="https://img.shields.io/badge/SHAP-8B5CF6?style=flat-square&logo=python&logoColor=white" alt="SHAP"/>
-<img src="https://img.shields.io/badge/AWS%20SageMaker-6366F1?style=flat-square&logo=amazonwebservices&logoColor=white" alt="SageMaker"/>
+<img src="https://img.shields.io/badge/SHAP-A855F7?style=flat-square&logo=python&logoColor=white" alt="SHAP"/>
+<img src="https://img.shields.io/badge/statsmodels-6366F1?style=flat-square&logo=python&logoColor=white" alt="statsmodels"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
 
-### Data Engineering & Backend
+### Frontend & 3D
 
-<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres,kafka&theme=dark" alt="Data & Backend"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,html,css&theme=dark" alt="Frontend & 3D"/>
+
+<img src="https://img.shields.io/badge/React%20Three%20Fiber-1E1B2E?style=flat-square&logo=three.js&logoColor=8B5CF6" alt="R3F"/>
+<img src="https://img.shields.io/badge/GLSL%20Shaders-7C3AED?style=flat-square&logo=opengl&logoColor=white" alt="GLSL"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-4F46E5?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+
+### Backend, Data & Databases
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,postgres&theme=dark" alt="Backend & Data"/>
 
 ### Cloud, DevOps & Tooling
 
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,linux,postman&theme=dark" alt="Cloud & DevOps"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel,linux,postman&theme=dark" alt="Cloud & DevOps"/>
 
 </div>
 
@@ -95,18 +105,56 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 
 | Domain | Proficiency | Details |
 |:-------|:-----------:|:--------|
-| **Machine Learning** | ▰▰▰▰▰▱ | Classification, regression, ensembles (Isolation Forest, LOF), evaluation, fairness audits with Scikit-learn |
+| **Statistical Modeling & Simulation** | ▰▰▰▰▰▱ | Dixon-Coles bivariate Poisson, hierarchical Bayesian models (PyMC), Elo, Monte Carlo tournament simulation, calibration analysis (Brier, log-loss) |
+| **Machine Learning** | ▰▰▰▰▰▱ | Classification, regression, ensembles (Isolation Forest, LOF), fairness audits, out-of-sample backtesting with Scikit-learn |
 | **Deep Learning** | ▰▰▰▰▰▱ | LSTMs, CNNs, PyTorch & TensorFlow — time-series forecasting and classification at 90%+ accuracy |
-| **NLP** | ▰▰▰▰▱▱ | Financial news sentiment pipelines (6,700+ articles), text feature engineering, embeddings |
+| **NLP & LLM Evaluation** | ▰▰▰▰▱▱ | RAG pipelines, citation-faithfulness verification, LLM-as-judge scoring, financial news sentiment (6,700+ articles) |
 | **Big Data Engineering** | ▰▰▰▰▰▱ | PySpark pipelines over 500K+ record datasets, ETL, feature engineering at scale |
-| **MLOps & Deployment** | ▰▰▰▰▰▱ | FastAPI model serving, Docker, MLflow, AWS SageMaker/S3, CI/CD, drift detection |
-| **Explainability & Governance** | ▰▰▰▰▱▱ | SHAP explanations, bias audits, zero-disparity fairness validation, model governance pipelines |
+| **MLOps & Deployment** | ▰▰▰▰▰▱ | FastAPI serving, Docker, MLflow, AWS SageMaker/S3, live-updating forecast loops, drift detection, CI/CD |
 
 </div>
 
 ---
 
 ## 🚀 Featured Projects
+
+<details>
+<summary><b>⚽ World Cup 2026 Forecasting Engine — Bayesian Modeling + Monte Carlo Simulation</b></summary>
+<br/>
+
+Goal-based statistical model trained on ~16,000 international matches, simulating the full 48-team 2026 bracket 5,000 times — with the forecast **frozen before kickoff** (June 8, 2026) so predictions are genuine, not hindsight. Served through a live dashboard and REST API.
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | Python, PyMC, SciPy, statsmodels, Scikit-learn, Streamlit, FastAPI, Altair, Docker, pytest |
+| **Scale** | ~16,000 matches • 5,000 full-tournament Monte Carlo simulations • 48-team bracket with real tiebreakers |
+| **Performance** | Beats climatology & uniform baselines on 2018 and 2022 backtests (Brier 0.566 / 0.614) with honest mid-range calibration |
+| **Security** | Reproducible pipeline, versioned forecast snapshots, pre-tournament data cutoff for audit integrity |
+| **Impact** | Live title-race dashboard + `/predict` API; hierarchical Bayesian version quantifies rating uncertainty (r-hat ≈ 1.0) |
+| **Repository** | [github.com/mayur212626/fifa-wc2026-predictor](https://github.com/mayur212626/fifa-wc2026-predictor) • [Live Dashboard](https://wc2026-title-race.onrender.com) |
+
+Four modeling layers — Elo baseline, Dixon-Coles bivariate Poisson, hierarchical Bayesian (PyMC) with partial pooling, and Monte Carlo simulation — plus a live update loop that refits on real results and re-simulates only the remaining bracket. Tested with a pytest suite covering probability axioms and simulation coherence.
+
+</details>
+
+<details>
+<summary><b>🌋 Las Placitas — Immersive 3D Restaurant Web Experience</b></summary>
+<br/>
+
+Concept redesign for a DC restaurant built around a real-time 3D volcano with a hand-written GLSL lava shader — full ordering flow, bilingual UI, and PWA support. Live on Vercel and actively evolving.
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | Next.js (App Router), TypeScript, React Three Fiber + drei, custom GLSL, Framer Motion, Lenis, Tailwind CSS, Leaflet |
+| **Scale** | Full product surface: menu with live search/filtering, cart + checkout flow, reservations, dual-location map, EN/ES i18n |
+| **Performance** | 3D loop pauses off-screen, bloom/post-processing tuned for 60fps, reduced-motion accessibility respected |
+| **Security** | PWA with offline service worker, schema.org structured data, semantic metadata, custom 404/loading states |
+| **Impact** | Demonstrates end-to-end product engineering: 3D graphics, motion design, state management, i18n, and SEO in one shipped app |
+| **Repository** | [github.com/mayur212626/las-placitas-web](https://github.com/mayur212626/las-placitas-web) • [Live Site](https://las-placitas-web.vercel.app) |
+
+Persistent cart with slide-in drawer and full checkout (pickup, tip, tax), word-by-word headline reveals, magnetic buttons, custom cursor with ember trail, heat-haze hover distortion, and a synthesized fire-crackle audio toggle — no audio files.
+
+</details>
 
 <details>
 <summary><b>🏥 Clinical Lab Abnormality Predictor — Deployed Diabetes Risk ML System</b></summary>
@@ -124,6 +172,25 @@ Full end-to-end ML system that predicts diabetes risk from clinical lab values �
 | **Repository** | [github.com/mayur212626/clinical-lab-predictor](https://github.com/mayur212626/clinical-lab-predictor) • [Live API](https://clinical-lab-predictor.onrender.com) |
 
 Designed as a real ML product: experiment tracking in MLflow, containerized FastAPI serving, automated CI/CD, and fairness validation baked into the release gate rather than bolted on afterward.
+
+</details>
+
+<details>
+<summary><b>🔬 RAG Citation Faithfulness — Pre-Registered Trustworthy AI Experiment</b></summary>
+<br/>
+
+Controlled experiment testing whether post-hoc verifiers (Chain-of-Verification and quote-then-cite) improve citation faithfulness in RAG systems — with hypotheses, metrics, and hard cases **pre-registered in git before any API call was made**.
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | Python, Anthropic API, HotpotQA (HuggingFace), BM25, LLM-as-judge, bootstrap statistics, matplotlib |
+| **Scale** | Full eval pipeline over HotpotQA corpus with held-out qualitative set and incremental crash-safe runs |
+| **Performance** | Claim-level judging (SUPPORTED/PARTIAL/UNSUPPORTED/CONTRADICTED) with bootstrap CIs and paired significance tests |
+| **Security** | Pre-registration committed at a fixed hash — metric definitions locked before results existed |
+| **Impact** | Honest findings: one intervention worked, one mostly didn't — failure modes documented, not hidden |
+| **Repository** | [github.com/mayur212626/rag-trust](https://github.com/mayur212626/rag-trust) |
+
+Research-grade rigor applied to LLM evaluation: locked hypotheses, Pareto analysis of faithfulness vs. cost, and a transparent postmortem of what broke (CoVe JSON fragility, single-chunk judge strictness).
 
 </details>
 
@@ -147,25 +214,6 @@ Ensemble scores are fused with a rule engine for interpretability, monitored for
 </details>
 
 <details>
-<summary><b>📈 Stock Price Prediction — LSTM + Financial News Sentiment</b></summary>
-<br/>
-
-Deep learning forecasting pipeline on AWS SageMaker that fuses 39 technical indicators with NLP sentiment extracted from 6,700+ financial news articles.
-
-| Attribute | Details |
-|:----------|:--------|
-| **Stack** | PyTorch (LSTM), AWS SageMaker, NLP sentiment pipeline, PySpark |
-| **Scale** | 6,700+ news articles processed • 39 engineered technical indicators |
-| **Performance** | MAPE **7.19%** — **7.1% improvement** over baseline models |
-| **Security** | Reproducible SageMaker training jobs with versioned data and model artifacts |
-| **Impact** | Demonstrates measurable alpha from multimodal (price + text) feature fusion |
-| **Repository** | [github.com/mayur212626](https://github.com/mayur212626?tab=repositories) |
-
-Built the full loop: PySpark feature engineering, sentiment scoring of news text, sequence modeling with LSTM, and rigorous baseline comparison to validate the sentiment signal's contribution.
-
-</details>
-
-<details>
 <summary><b>🚢 Ship Type & COG Prediction — 358K-Record AIS Maritime Dataset</b></summary>
 <br/>
 
@@ -184,6 +232,25 @@ Heavy-lift data engineering project: distributed cleaning of raw AIS transponder
 
 </details>
 
+<details>
+<summary><b>📈 Stock Price Prediction — LSTM + Financial News Sentiment</b></summary>
+<br/>
+
+Deep learning forecasting pipeline on AWS SageMaker fusing 39 technical indicators with NLP sentiment extracted from 6,700+ financial news articles.
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | PyTorch (LSTM), AWS SageMaker, NLP sentiment pipeline, PySpark |
+| **Scale** | 6,700+ news articles processed • 39 engineered technical indicators |
+| **Performance** | MAPE **7.19%** — **7.1% improvement** over baseline models |
+| **Security** | Reproducible SageMaker training jobs with versioned data and model artifacts |
+| **Impact** | Demonstrates measurable gains from multimodal (price + text) feature fusion |
+| **Repository** | [github.com/mayur212626](https://github.com/mayur212626?tab=repositories) |
+
+Built the full loop: PySpark feature engineering, sentiment scoring of news text, sequence modeling with LSTM, and rigorous baseline comparison to validate the sentiment signal's contribution.
+
+</details>
+
 ---
 
 ## 💼 Experience
@@ -193,11 +260,12 @@ Heavy-lift data engineering project: distributed cleaning of raw AIS transponder
 
 Graduate coursework and applied research in machine learning, deep learning, NLP, and big data systems — with every major project built to production standards.
 
-- Designed and deployed **4 end-to-end ML systems** spanning clinical ML, anomaly detection, financial NLP, and maritime analytics
+- Designed and deployed **7 end-to-end systems** spanning Bayesian forecasting, clinical ML, LLM evaluation, anomaly detection, and interactive 3D web
+- Shipped **3 live products**: a World Cup forecasting dashboard, a clinical prediction API, and a 3D restaurant web experience
 - Engineered **PySpark pipelines** over datasets of 350K–500K+ records with full preprocessing governance
-- Shipped models behind **FastAPI + Docker** with MLflow experiment tracking and CI/CD on AWS
+- Pre-registered a Trustworthy AI experiment on RAG citation faithfulness with locked hypotheses and LLM-as-judge evaluation
 
-`PyTorch` `PySpark` `AWS SageMaker` `FastAPI` `MLflow` `Docker` `SHAP` `Deep Learning`
+`PyTorch` `PyMC` `PySpark` `FastAPI` `Streamlit` `Next.js` `React Three Fiber` `Docker` `MLflow` `AWS`
 
 ### Published Researcher
 **International Journal of Innovative Research** &nbsp;•&nbsp; *2024*
@@ -217,10 +285,11 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 | Recognition | Details |
 |:-----------:|:--------|
+| ⚽ **Pre-Registered Forecaster** | World Cup 2026 forecast frozen before kickoff — beat climatology & uniform baselines on 2018/2022 backtests |
 | 📄 **Published Author ×2** | Peer-reviewed papers on Data Security Management and Gesture Recognition (Int'l Journal of Innovative Research, 2024) |
 | 🩺 **Production ML at 0.96 AUC** | Clinical diabetes-risk system deployed with live API, zero fairness disparity, and full CI/CD |
 | 🔍 **540× Anomaly Lift** | Ensemble log-anomaly engine over 500K+ records with Precision@100 of 0.78 |
-| 🚢 **0.98 AUC on Real Telemetry** | Vessel-type classifier on 358K+ raw AIS records with governed PySpark pipeline |
+| 🌋 **Shipped 3D Web Product** | Live Next.js + React Three Fiber experience with custom GLSL shaders, PWA support, and bilingual UI |
 | ⚡ **GitHub Quickdraw** | Recognized for rapid issue-to-resolution turnaround on GitHub |
 
 </div>
@@ -325,23 +394,24 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 ```yaml
 learning:
-  - LLM fine-tuning, evaluation & RAG architectures
-  - Advanced MLOps — model governance, drift monitoring, CI/CD for ML
-  - Distributed data processing at scale with PySpark
+  - Advanced Bayesian modeling & probabilistic programming (PyMC)
+  - LLM evaluation, RAG faithfulness & trustworthy AI methods
+  - GLSL shaders & real-time 3D graphics on the web
 
 building:
+  - Live World Cup 2026 forecast updates as the tournament unfolds
+  - Las Placitas — immersive 3D restaurant web experience (active WIP)
   - Production ML systems with deployed APIs, not just notebooks
-  - Explainable, bias-audited models fit for regulated domains
 
 exploring:
   - Multimodal feature fusion (text + time-series + tabular)
-  - Real-time inference & streaming ML pipelines
-  - AWS-native ML architecture patterns
+  - Model calibration & uncertainty quantification
+  - Creative frontend engineering meets data products
 
 open_to:
   - Summer 2026 Data Science internships (open to relocation)
   - ML research collaboration
-  - Open source contribution
+  - Full stack / creative web product work
 ```
 
 ---
@@ -360,8 +430,8 @@ open_to:
 <a href="https://github.com/mayur212626">
   <img src="https://img.shields.io/badge/GitHub-mayur212626-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E" alt="GitHub"/>
 </a>
-<a href="https://github.com/mayur212626?tab=repositories">
-  <img src="https://img.shields.io/badge/Portfolio-All%20Projects-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E" alt="Portfolio"/>
+<a href="https://las-placitas-web.vercel.app">
+  <img src="https://img.shields.io/badge/Latest%20Build-las--placitas--web-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E" alt="Latest Build"/>
 </a>
 
 </div>
