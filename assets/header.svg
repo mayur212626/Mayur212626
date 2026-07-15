@@ -1,0 +1,123 @@
+<svg viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#070212"/>
+      <stop offset="45%" stop-color="#0E0326"/>
+      <stop offset="100%" stop-color="#070212"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.50"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowC" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#A855F7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#F5F3FF"/>
+      <stop offset="50%" stop-color="#C4B5FD"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#6366F1"/>
+      <stop offset="50%" stop-color="#A855F7"/>
+      <stop offset="70%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="borderGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#A855F7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="waveGrad1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="waveGrad2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0.02"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#8B5CF6" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <clipPath id="frame"><rect x="2" y="2" width="1196" height="316" rx="18"/></clipPath>
+  </defs>
+
+  <rect x="2" y="2" width="1196" height="316" rx="18" fill="url(#bg)"/>
+
+  <g clip-path="url(#frame)">
+    <rect x="2" y="2" width="1196" height="316" fill="url(#grid)"/>
+
+    <ellipse cx="190" cy="70" rx="340" ry="190" fill="url(#glowA)">
+      <animate attributeName="cx" values="190;290;190" dur="16s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="1030" cy="260" rx="360" ry="200" fill="url(#glowB)">
+      <animate attributeName="cx" values="1030;930;1030" dur="18s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="620" cy="20" rx="300" ry="150" fill="url(#glowC)">
+      <animate attributeName="cy" values="20;60;20" dur="14s" repeatCount="indefinite"/>
+    </ellipse>
+
+    <path d="M0,268 C200,238 380,292 600,266 C820,240 1000,290 1200,258 L1200,320 L0,320 Z" fill="url(#waveGrad1)">
+      <animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0,268 C200,238 380,292 600,266 C820,240 1000,290 1200,258 L1200,320 L0,320 Z;M0,258 C200,290 380,240 600,272 C820,296 1000,242 1200,270 L1200,320 L0,320 Z;M0,268 C200,238 380,292 600,266 C820,240 1000,290 1200,258 L1200,320 L0,320 Z"/>
+    </path>
+    <path d="M0,286 C260,262 480,304 720,282 C920,264 1080,300 1200,280 L1200,320 L0,320 Z" fill="url(#waveGrad2)">
+      <animate attributeName="d" dur="15s" repeatCount="indefinite" values="M0,286 C260,262 480,304 720,282 C920,264 1080,300 1200,280 L1200,320 L0,320 Z;M0,280 C260,302 480,266 720,292 C920,306 1080,270 1200,290 L1200,320 L0,320 Z;M0,286 C260,262 480,304 720,282 C920,264 1080,300 1200,280 L1200,320 L0,320 Z"/>
+    </path>
+
+    <g fill="#C4B5FD">
+      <circle cx="140" cy="0" r="2">
+        <animate attributeName="cy" values="330;-10" dur="11s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.8;0" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="320" cy="0" r="1.4">
+        <animate attributeName="cy" values="330;-10" dur="14s" begin="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.7;0" dur="14s" begin="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="520" cy="0" r="1.8">
+        <animate attributeName="cy" values="330;-10" dur="12s" begin="5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.75;0" dur="12s" begin="5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="700" cy="0" r="1.3">
+        <animate attributeName="cy" values="330;-10" dur="16s" begin="1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.6;0" dur="16s" begin="1s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="880" cy="0" r="2.2">
+        <animate attributeName="cy" values="330;-10" dur="10s" begin="4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.85;0" dur="10s" begin="4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1060" cy="0" r="1.5">
+        <animate attributeName="cy" values="330;-10" dur="13s" begin="7s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.7;0" dur="13s" begin="7s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <g transform="translate(34,30)">
+      <circle cx="0" cy="0" r="5" fill="#4F46E5"/>
+      <circle cx="18" cy="0" r="5" fill="#7C3AED"/>
+      <circle cx="36" cy="0" r="5" fill="#A855F7"/>
+    </g>
+    <text x="66" y="35" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="13" fill="#6D67A8">~/mayur-patil</text>
+    <text x="1166" y="35" text-anchor="end" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="13" fill="#6D67A8">est. Pune &#8594; Washington, DC</text>
+
+    <text x="600" y="118" text-anchor="middle" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="15" letter-spacing="6" fill="#8B5CF6" opacity="0.9">&lt;/&gt; HELLO WORLD, I AM</text>
+
+    <text x="600" y="178" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="60" font-weight="700" letter-spacing="10" fill="url(#nameGrad)">MAYUR PATIL</text>
+
+    <rect x="470" y="196" width="260" height="3" rx="1.5" fill="url(#lineGrad)">
+      <animate attributeName="width" values="120;260;120" dur="4s" repeatCount="indefinite"/>
+      <animate attributeName="x" values="540;470;540" dur="4s" repeatCount="indefinite"/>
+    </rect>
+
+    <text x="600" y="232" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="5" fill="#A78BFA">DATA SCIENCE&#160;&#160;&#8226;&#160;&#160;ML ENGINEERING&#160;&#160;&#8226;&#160;&#160;FULL STACK</text>
+
+    <text x="600" y="262" text-anchor="middle" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="13" letter-spacing="1" fill="#5F5A8F">bayesian modeling &#183; deployed ml systems &#183; real-time 3d web</text>
+  </g>
+
+  <rect x="2" y="2" width="1196" height="316" rx="18" stroke="url(#borderGrad)" stroke-width="1.5" fill="none" opacity="0.6"/>
+</svg>
