@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:A855F7&height=220&section=header&text=Mayur%20Patil&fontSize=64&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%E2%80%A2%20ML%20Engineering%20%E2%80%A2%20Full%20Stack%20Development&descSize=18&descAlignY=55" width="100%"/>
+<img src="assets/header.svg" width="100%" alt="Mayur Patil — Data Science · ML Engineering · Full Stack"/>
 
 <a href="https://github.com/mayur212626">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=750&lines=Building+ML+Systems+That+Survive+Production;Bayesian+Models+%7C+Monte+Carlo+%7C+Deep+Learning+%7C+NLP;3D+Web+Experiences+with+React+Three+Fiber+%2B+GLSL;Seeking+Summer+2026+Data+Science+Internships" alt="Typing SVG" />
@@ -39,7 +39,7 @@
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🧠 About
 
@@ -58,7 +58,7 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 
 > **Open To:** Summer 2026 Data Science internships (open to relocation) • ML research collaboration • Full stack product work • Open source
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🛠️ Tech Stack
 
@@ -97,7 +97,7 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🤖 AI / ML Expertise
 
@@ -114,7 +114,7 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🚀 Featured Projects
 
@@ -251,7 +251,7 @@ Built the full loop: PySpark feature engineering, sentiment scoring of news text
 
 </details>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 💼 Experience
 
@@ -277,7 +277,7 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 `Research` `Data Security` `Computer Vision` `Technical Writing`
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🏆 Achievements
 
@@ -294,7 +294,7 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📜 Certifications
 
@@ -318,7 +318,7 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## ⚔️ Coding Profiles
 
@@ -339,7 +339,7 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📊 GitHub Analytics
 
@@ -354,7 +354,7 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🏅 GitHub Trophies
 
@@ -364,7 +364,7 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📈 Contribution Activity
 
@@ -374,7 +374,7 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🐍 Contribution Snake
 
@@ -388,7 +388,7 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🎯 Current Focus
 
@@ -414,7 +414,7 @@ open_to:
   - Full stack / creative web product work
 ```
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🤝 Connect
 
@@ -436,12 +436,12 @@ open_to:
 
 </div>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 <div align="center">
 
 *"A model is only as good as the day it meets real data — build for that day."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:4F46E5&height=140&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
 </div>
