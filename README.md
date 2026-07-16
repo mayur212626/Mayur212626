@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://las-placitas-web.vercel.app">
+<a href="https://mayur212626.github.io">
   <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/mayurpatil26">
@@ -125,24 +125,6 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 </div>
 
 <!--FORECAST:START-->
-<div align="center">
-
-| # | Team | Semis | Final | 🏆 Title odds |
-|:-:|:-----|:-----:|:-----:|:--------------|
-| 🥇 | **Argentina** | 37.9% | 26.2% | `██████████` **17.3%** |
-| 🥈 | **Spain** | 31.0% | 19.9% | `███████░░░` **11.9%** |
-| 🥉 | **England** | 22.2% | 12.2% | `████░░░░░░` **6.8%** |
-| 4 | **Brazil** | 22.0% | 11.4% | `███░░░░░░░` **5.9%** |
-| 5 | **Portugal** | 20.6% | 11.6% | `███░░░░░░░` **5.6%** |
-| 6 | **Morocco** | 19.4% | 10.2% | `███░░░░░░░` **5.3%** |
-| 7 | **France** | 20.4% | 10.2% | `███░░░░░░░` **5.2%** |
-| 8 | **Germany** | 20.0% | 9.5% | `███░░░░░░░` **4.6%** |
-
-*Last synced: **Jul 15, 2026 · 05:18 UTC** · refreshed automatically by GitHub Actions · 5,000 Monte Carlo simulations per run*
-
-[**Model & code**](https://github.com/mayur212626/fifa-wc2026-predictor) · [**Live dashboard**](https://wc2026-title-race.onrender.com)
-
-</div>
 <!--FORECAST:END-->
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
@@ -473,4 +455,24 @@ open_to:
   <img src="https://img.shields.io/badge/Email-mayur.patil%40gwmail.gwu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B2E" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/mayurpatil26">
-  <img src="https://img.shields.io/badge/LinkedIn-
+  <img src="https://img.shields.io/badge/LinkedIn-mayurpatil26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B2E" alt="LinkedIn"/>
+</a>
+<br/>
+<a href="https://github.com/mayur212626">
+  <img src="https://img.shields.io/badge/GitHub-mayur212626-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E" alt="GitHub"/>
+</a>
+<a href="https://mayur212626.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-mayur212626.github.io-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E" alt="Portfolio"/>
+</a>
+
+</div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+<div align="center">
+
+*"A model is only as good as the day it meets real data — build for that day."*
+
+<img src="assets/footer.svg" width="100%" alt=""/>
+
+</div>
