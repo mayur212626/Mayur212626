@@ -125,6 +125,24 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 </div>
 
 <!--FORECAST:START-->
+<div align="center">
+
+| # | Team | Semis | Final | 🏆 Title odds |
+|:-:|:-----|:-----:|:-----:|:--------------|
+| 🥇 | **Argentina** | 37.9% | 26.2% | `██████████` **17.3%** |
+| 🥈 | **Spain** | 31.0% | 19.9% | `███████░░░` **11.9%** |
+| 🥉 | **England** | 22.2% | 12.2% | `████░░░░░░` **6.8%** |
+| 4 | **Brazil** | 22.0% | 11.4% | `███░░░░░░░` **5.9%** |
+| 5 | **Portugal** | 20.6% | 11.6% | `███░░░░░░░` **5.6%** |
+| 6 | **Morocco** | 19.4% | 10.2% | `███░░░░░░░` **5.3%** |
+| 7 | **France** | 20.4% | 10.2% | `███░░░░░░░` **5.2%** |
+| 8 | **Germany** | 20.0% | 9.5% | `███░░░░░░░` **4.6%** |
+
+*Last synced: **Jul 16, 2026 · 05:23 UTC** · refreshed automatically by GitHub Actions · 5,000 Monte Carlo simulations per run*
+
+[**Model & code**](https://github.com/mayur212626/fifa-wc2026-predictor) · [**Live dashboard**](https://wc2026-title-race.onrender.com)
+
+</div>
 <!--FORECAST:END-->
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
