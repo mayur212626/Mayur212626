@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://las-placitas-web.vercel.app">
+<a href="https://mayur212626.github.io">
   <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/mayurpatil26">
@@ -113,6 +113,19 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 | **MLOps & Deployment** | ▰▰▰▰▰▱ | FastAPI serving, Docker, MLflow, AWS SageMaker/S3, live-updating forecast loops, drift detection, CI/CD |
 
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 📡 Live Forecast — World Cup 2026
+
+<div align="center">
+
+*My deployed Dixon-Coles + Monte Carlo model, streaming its latest title odds directly into this README via GitHub Actions.*
+
+</div>
+
+<!--FORECAST:START-->
+<!--FORECAST:END-->
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -352,6 +365,10 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur212626&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" height="160" alt="Top Languages"/>
 
+<br/><br/>
+
+<img src="github-metrics.svg" width="95%" alt="Detailed Metrics Dashboard"/>
+
 </div>
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
@@ -370,6 +387,10 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 
 <div align="center">
 
+<img src="profile-3d-contrib/profile-night-view.svg" width="95%" alt="3D Contribution Graph"/>
+
+<br/><br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mayur212626&bg_color=0D1117&color=8B5CF6&line=6366F1&point=A855F7&area=true&area_color=4F46E5&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Activity Graph"/>
 
 </div>
@@ -387,6 +408,16 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 </picture>
 
 </div>
+
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## ⏱️ Weekly Coding Breakdown
+
+<!--START_SECTION:waka-->
+```txt
+WakaTime not connected yet — live language/time stats appear after the first workflow run.
+```
+<!--END_SECTION:waka-->
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
@@ -430,8 +461,8 @@ open_to:
 <a href="https://github.com/mayur212626">
   <img src="https://img.shields.io/badge/GitHub-mayur212626-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E" alt="GitHub"/>
 </a>
-<a href="https://las-placitas-web.vercel.app">
-  <img src="https://img.shields.io/badge/Latest%20Build-las--placitas--web-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E" alt="Latest Build"/>
+<a href="https://mayur212626.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-mayur212626.github.io-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E" alt="Portfolio"/>
 </a>
 
 </div>
