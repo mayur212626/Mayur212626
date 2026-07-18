@@ -138,7 +138,7 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 | 7 | **France** | 20.4% | 10.2% | `███░░░░░░░` **5.2%** |
 | 8 | **Germany** | 20.0% | 9.5% | `███░░░░░░░` **4.6%** |
 
-*Last synced: **Jul 18, 2026 · 07:38 UTC** · refreshed automatically by GitHub Actions · 5,000 Monte Carlo simulations per run*
+*Last synced: **Jul 18, 2026 · 12:58 UTC** · refreshed automatically by GitHub Actions · 5,000 Monte Carlo simulations per run*
 
 [**Model & code**](https://github.com/mayur212626/fifa-wc2026-predictor) · [**Live dashboard**](https://wc2026-title-race.onrender.com)
 
