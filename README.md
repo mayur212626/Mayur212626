@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://mayur212626.github.io">
+<a href="https://mjpatil.com/">
   <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/mayurpatil26">
@@ -479,8 +479,8 @@ open_to:
 <a href="https://github.com/mayur212626">
   <img src="https://img.shields.io/badge/GitHub-mayur212626-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B2E" alt="GitHub"/>
 </a>
-<a href="https://mayur212626.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-mayur212626.github.io-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E" alt="Portfolio"/>
+<a href="https://mjpatil.com/">
+  <img src="https://img.shields.io/badge/Portfolio-mjpatil.com-4F46E5?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B2E" alt="Portfolio"/>
 </a>
 
 </div>
