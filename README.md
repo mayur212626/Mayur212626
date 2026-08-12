@@ -432,9 +432,11 @@ Authored peer-reviewed publications during undergraduate studies in Pune, India.
 ## ⏱️ Weekly Coding Breakdown
 
 <!--START_SECTION:waka-->
+
 ```txt
-WakaTime not connected yet — live language/time stats appear after the first workflow run.
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
