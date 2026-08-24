@@ -150,6 +150,44 @@ I'm a **Data Science & ML Engineer** and M.S. Data Science candidate at **George
 ## 🚀 Featured Projects
 
 <details>
+<summary><b>🔎 DocMind — RAG Document Q&A with Cited Sources</b></summary>
+<br/>
+
+Chat with your PDFs and get answers backed by the exact source passage — with a guardrail that refuses to answer when the documents don't cover the question, instead of hallucinating a confident wrong answer.
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | Python, LlamaIndex, ChromaDB, OpenAI, pypdf, Streamlit |
+| **Scale** | Multi-PDF ingestion → page-level chunking → embeddings → persisted vector store that survives restarts |
+| **Performance** | Retrieval-scored guardrail declines out-of-scope questions; every answer cites its source file and page |
+| **Security** | Runs locally, API key kept in a gitignored env, page-level provenance for auditability |
+| **Impact** | Turns a pile of policy docs, manuals, and handbooks into a searchable, trustworthy knowledge base |
+| **Repository** | [github.com/mayur212626/docmind](https://github.com/mayur212626/docmind) |
+
+Built so the honesty matters more than the demo: retrieval strength is checked before generation, so a weak match returns "I couldn't find that" rather than a fabricated policy. End-to-end tested against a sample handbook.
+
+</details>
+
+<details>
+<summary><b>📊 DataPilot — AI Data Analyst Agent</b></summary>
+<br/>
+
+An agent that *works* your data instead of talking about it: upload a CSV, ask a question in plain English, and it writes and runs real pandas in a sandbox, then answers with a chart and a recommendation. Every number comes from code that actually ran.
+
+| Attribute | Details |
+|:----------|:--------|
+| **Stack** | Python, OpenAI tool-calling, pandas, NumPy, matplotlib, Streamlit |
+| **Scale** | Agentic loop: auto-profile → generate pandas → execute → interpret → chart, over an arbitrary uploaded CSV |
+| **Performance** | Answers are grounded in executed output, never guessed; a notebook-style echo lets the agent see results and converge |
+| **Security** | Model-generated code runs in a restricted sandbox — whitelisted builtins and imports, no file or network access |
+| **Impact** | Replaces the hour a junior analyst spends poking at a file to answer a single question |
+| **Repository** | [github.com/mayur212626/datapilot](https://github.com/mayur212626/datapilot) |
+
+A real tool-use agent, not a chatbot: it profiles the data, reasons over real output, and ends with a concrete recommendation. Ships with offline sandbox-safety tests and an end-to-end live agent test.
+
+</details>
+
+<details>
 <summary><b>⚽ World Cup 2026 Forecasting Engine — Bayesian Modeling + Monte Carlo Simulation</b></summary>
 <br/>
 
